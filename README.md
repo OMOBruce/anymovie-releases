@@ -119,7 +119,7 @@ AnyMovie 希望让 TVBox 不仅能播放，也能拥有好看的界面和顺手�
 
 ## 下载安装
 
-前往 [Releases 下载最新安装包](https://github.com/OMOBruce/anymovie-releases/releases/latest)。
+前往 [Releases 下载最新安装包](https://github.com/OMOBruce/anymovie-releases/releases)。
 
 - **universal**：通用安装包，不确定设备架构时优先选择。
 - **arm64-v8a**：适用于 64 位 ARM 设备。
